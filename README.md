@@ -1,2 +1,3 @@
-# a
-Stuff I believe works
+# Stuff I believe works
+
+* Communication over resolution
