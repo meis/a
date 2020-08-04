@@ -1,4 +1,5 @@
 # Stuff I believe works
 
-* Communication over resolution
+* Communication over Resolution
 * Early discussion >>> Review
+* Disagree and Commit
