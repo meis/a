@@ -3,3 +3,4 @@
 * Communication over Resolution
 * Early discussion >>> Review
 * Disagree and Commit
+* Integrate First
