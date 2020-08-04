@@ -4,3 +4,4 @@
 * Early discussion >>> Review
 * Disagree and Commit
 * Integrate First
+* Reduce Scope
